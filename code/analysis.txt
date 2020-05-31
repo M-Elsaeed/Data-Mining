@@ -1,0 +1,107 @@
+count    65.000000
+mean     54.446154
+std       5.659701
+min      44.000000
+25%      50.000000
+50%      55.000000
+75%      59.000000
+max      64.000000
+age, float64
+
+count       65
+unique       2
+top       True
+freq        44
+sex, object
+
+count     65.0
+unique     4.0
+top        4.0
+freq      29.0
+cp, float64
+
+count     65.000000
+mean     131.230769
+std        9.875426
+min      112.000000
+25%      125.000000
+50%      130.000000
+75%      138.000000
+max      150.000000
+trestbps, float64
+
+count     65.000000
+mean     241.307692
+std       26.423784
+min      201.000000
+25%      219.000000
+50%      242.000000
+75%      257.000000
+max      295.000000
+chol, float64
+
+count        65
+unique        2
+top       False
+freq         53
+fbs, object
+
+count     65.0
+unique     3.0
+top        2.0
+freq      32.0
+restecg, float64
+
+count     65.000000
+mean     154.538462
+std       11.337268
+min      130.000000
+25%      146.000000
+50%      158.000000
+75%      163.000000
+max      172.000000
+thalach, float64
+
+count        65
+unique        2
+top       False
+freq         48
+exang, object
+
+count    65.000000
+mean      0.753846
+std       0.747094
+min       0.000000
+25%       0.000000
+50%       0.600000
+75%       1.400000
+max       2.400000
+oldpeak, float64
+
+count    65.000000
+mean      1.415385
+std       0.496623
+min       1.000000
+25%       1.000000
+50%       1.000000
+75%       2.000000
+max       2.000000
+slope, float64
+
+count     65.0
+unique     4.0
+top        0.0
+freq      40.0
+ca, float64
+
+count     65.0
+unique     3.0
+top        3.0
+freq      39.0
+thal, float64
+
+count     65
+unique     5
+top        0
+freq      39
+goal, int64
