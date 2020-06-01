@@ -98,6 +98,8 @@ print("Standard Deviation")
 print(heartDataFrame.std(ddof=0, numeric_only=True))
 print("Variance")
 print(heartDataFrame.var(ddof=0, numeric_only=True))
+print("Skewness")
+print(heartDataFrame.skew())
 
 
 for i in heartDataFrame:
