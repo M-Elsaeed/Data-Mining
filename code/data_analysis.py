@@ -77,13 +77,14 @@ heartDataFrame = heartDataFrame.astype({
 print(heartDataFrame)
 
 # Removing Outliers and saving box plotes
-# for i in heartDataFrame:
-#     if heartDataFrame.dtypes[i] == "int32" or heartDataFrame.dtypes[i] == "float64":
-#         heartDataFrame.boxplot(column=i)
-#         plt.savefig("./code/images/before_" + i)
-#         plt.close()
-#         heartDataFrame = heartDataFrame[heartDataFrame[i].between(
-#             heartDataFrame[i].quantile(.15), heartDataFrame[i].quantile(.85))]
+for i in heartDataFrame:
+    if heartDataFrame.dtypes[i] == "int32" or heartDataFrame.dtypes[i] == "float64":
+        heartDataFrame.boxplot(column=i)
+        plt.savefig("./code/images/before_" + i)
+        plt.close()
+        heartDataFrame = heartDataFrame[np.abs(heartDataFrame[i]-heartDataFrame[i].mean()) <= (3*heartDataFrame[i].std())]
+
+print(heartDataFrame)
 
 # Saving box plotes after removing Outliers
 for i in heartDataFrame:
