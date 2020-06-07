@@ -49,7 +49,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy import stats
 
 # Reading csv dataset
 heartDataFrame = pd.read_csv('D:/learning/DM/code/heart.csv')
@@ -76,24 +75,25 @@ heartDataFrame = heartDataFrame.astype({
 
 print(heartDataFrame)
 
-# Removing Outliers and saving box plotes
 for i in heartDataFrame:
     if heartDataFrame.dtypes[i] == "int32" or heartDataFrame.dtypes[i] == "float64":
+        # Saving box plotes before removing Outliers
         heartDataFrame.boxplot(column=i)
         plt.savefig("./code/images/before_" + i)
         plt.close()
-        heartDataFrame = heartDataFrame[np.abs(heartDataFrame[i]-heartDataFrame[i].mean()) <= (3*heartDataFrame[i].std())]
 
-print(heartDataFrame)
+        # Removing Outliers
+        heartDataFrame = heartDataFrame[np.abs(
+            heartDataFrame[i]-heartDataFrame[i].mean()) <= (3*heartDataFrame[i].std())]
 
-# Saving box plotes after removing Outliers
-for i in heartDataFrame:
-    if heartDataFrame.dtypes[i] == "int32" or heartDataFrame.dtypes[i] == "float64":
+        # Saving box plotes after removing Outliers
         heartDataFrame.boxplot(column=i)
         plt.savefig("./code/images/after_" + i)
         plt.close()
 
-print("mode(s)")
+print(heartDataFrame)
+
+# Printing mode(s), Standard Deviation, Variance, Skewness
 print(heartDataFrame.mode())
 print("Standard Deviation")
 print(heartDataFrame.std(ddof=0, numeric_only=True))
@@ -104,11 +104,17 @@ print(heartDataFrame.skew())
 
 
 for i in heartDataFrame:
+    # For numeric data, Printing count, mean, std, min, max as well as 25, 50 and 75 percentiles.
+    # For object data, Printing count, unique, top, and freq. The top is the most common value. The freq is the most common value’s frequency.
     print(heartDataFrame[i].describe())
-    if i == "sex" or i == "cp" or i == "fbs" or i == "restecg" or i == "exang"  or i == "slope" or i == "ca" or i == "thal" or i == "goal":
+
+    # Plotting attribute as a bar chart of histogram
+    if i == "sex" or i == "cp" or i == "fbs" or i == "restecg" or i == "exang" or i == "slope" or i == "ca" or i == "thal" or i == "goal":
         heartDataFrame[i].value_counts().plot(kind='bar')
     else:
         pd.DataFrame.hist(heartDataFrame, column=i)
+
+    # Saving the plot
     plt.savefig("./code/images/bar_" + i)
     plt.close()
     print()
