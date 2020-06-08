@@ -1,0 +1,298 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,goal
+63.0,M,typical angina,145.0,233.0,1.0,left ventricular hypertrophy,150.0,0.0,2.3,down,zero,fixed defect,A
+67.0,M,asymptomatic,160.0,286.0,0.0,left ventricular hypertrophy,108.0,1.0,1.5,flat,three,normal,C
+67.0,M,asymptomatic,120.0,229.0,0.0,left ventricular hypertrophy,129.0,1.0,2.6,flat,two,reversable defect,B
+37.0,M,non-anginal pain,130.0,250.0,0.0,normal,187.0,0.0,3.5,down,zero,normal,A
+41.0,F,atypical angina,130.0,204.0,0.0,left ventricular hypertrophy,172.0,0.0,1.4,up,zero,normal,A
+56.0,M,atypical angina,120.0,236.0,0.0,normal,178.0,0.0,0.8,up,zero,normal,A
+62.0,F,asymptomatic,140.0,268.0,0.0,left ventricular hypertrophy,160.0,0.0,3.6,down,two,normal,D
+57.0,F,asymptomatic,120.0,354.0,0.0,normal,163.0,1.0,0.6,up,zero,normal,A
+63.0,M,asymptomatic,130.0,254.0,0.0,left ventricular hypertrophy,147.0,0.0,1.4,flat,one,reversable defect,C
+53.0,M,asymptomatic,140.0,203.0,1.0,left ventricular hypertrophy,155.0,1.0,3.1,down,zero,reversable defect,B
+57.0,M,asymptomatic,140.0,192.0,0.0,normal,148.0,0.0,0.4,flat,zero,fixed defect,A
+56.0,F,atypical angina,140.0,294.0,0.0,left ventricular hypertrophy,153.0,0.0,1.3,flat,zero,normal,A
+56.0,M,non-anginal pain,130.0,256.0,1.0,left ventricular hypertrophy,142.0,1.0,0.6,flat,one,fixed defect,C
+44.0,M,atypical angina,120.0,263.0,0.0,normal,173.0,0.0,0.0,up,zero,reversable defect,A
+52.0,M,non-anginal pain,172.0,199.0,1.0,normal,162.0,0.0,0.5,up,zero,reversable defect,A
+57.0,M,non-anginal pain,150.0,168.0,0.0,normal,174.0,0.0,1.6,up,zero,normal,A
+48.0,M,atypical angina,110.0,229.0,0.0,normal,168.0,0.0,1.0,down,zero,reversable defect,B
+54.0,M,asymptomatic,140.0,239.0,0.0,normal,160.0,0.0,1.2,up,zero,normal,A
+48.0,F,non-anginal pain,130.0,275.0,0.0,normal,139.0,0.0,0.2,up,zero,normal,A
+49.0,M,atypical angina,130.0,266.0,0.0,normal,171.0,0.0,0.6,up,zero,normal,A
+64.0,M,typical angina,110.0,211.0,0.0,left ventricular hypertrophy,144.0,1.0,1.8,flat,zero,normal,A
+58.0,F,typical angina,150.0,283.0,1.0,left ventricular hypertrophy,162.0,0.0,1.0,up,zero,normal,A
+58.0,M,atypical angina,120.0,284.0,0.0,left ventricular hypertrophy,160.0,0.0,1.8,flat,zero,normal,B
+58.0,M,non-anginal pain,132.0,224.0,0.0,left ventricular hypertrophy,173.0,0.0,3.2,up,two,reversable defect,D
+60.0,M,asymptomatic,130.0,206.0,0.0,left ventricular hypertrophy,132.0,1.0,2.4,flat,two,reversable defect,E
+50.0,F,non-anginal pain,120.0,219.0,0.0,normal,158.0,0.0,1.6,flat,zero,normal,A
+58.0,F,non-anginal pain,120.0,340.0,0.0,normal,172.0,0.0,0.0,up,zero,normal,A
+66.0,F,typical angina,150.0,226.0,0.0,normal,114.0,0.0,2.6,down,zero,normal,A
+43.0,M,asymptomatic,150.0,247.0,0.0,normal,171.0,0.0,1.5,up,zero,normal,A
+40.0,M,asymptomatic,110.0,167.0,0.0,left ventricular hypertrophy,114.0,1.0,2.0,flat,zero,reversable defect,D
+69.0,F,typical angina,140.0,239.0,0.0,normal,151.0,0.0,1.8,up,two,normal,A
+60.0,M,asymptomatic,117.0,230.0,1.0,normal,160.0,1.0,1.4,up,two,reversable defect,C
+64.0,M,non-anginal pain,140.0,335.0,0.0,normal,158.0,0.0,0.0,up,zero,normal,B
+59.0,M,asymptomatic,135.0,234.0,0.0,normal,161.0,0.0,0.5,flat,zero,reversable defect,A
+44.0,M,non-anginal pain,130.0,233.0,0.0,normal,179.0,1.0,0.4,up,zero,normal,A
+42.0,M,asymptomatic,140.0,226.0,0.0,normal,178.0,0.0,0.0,up,zero,normal,A
+43.0,M,asymptomatic,120.0,177.0,0.0,left ventricular hypertrophy,120.0,1.0,2.5,flat,zero,reversable defect,D
+57.0,M,asymptomatic,150.0,276.0,0.0,left ventricular hypertrophy,112.0,1.0,0.6,flat,one,fixed defect,B
+55.0,M,asymptomatic,132.0,353.0,0.0,normal,132.0,1.0,1.2,flat,one,reversable defect,D
+61.0,M,non-anginal pain,150.0,243.0,1.0,normal,137.0,1.0,1.0,flat,zero,normal,A
+65.0,F,asymptomatic,150.0,225.0,0.0,left ventricular hypertrophy,114.0,0.0,1.0,flat,three,reversable defect,E
+40.0,M,typical angina,140.0,199.0,0.0,normal,178.0,1.0,1.4,up,zero,reversable defect,A
+71.0,F,atypical angina,160.0,302.0,0.0,normal,162.0,0.0,0.4,up,two,normal,A
+59.0,M,non-anginal pain,150.0,212.0,1.0,normal,157.0,0.0,1.6,up,zero,normal,A
+61.0,F,asymptomatic,130.0,330.0,0.0,left ventricular hypertrophy,169.0,0.0,0.0,up,zero,normal,B
+58.0,M,non-anginal pain,112.0,230.0,0.0,left ventricular hypertrophy,165.0,0.0,2.5,flat,one,reversable defect,E
+51.0,M,non-anginal pain,110.0,175.0,0.0,normal,123.0,0.0,0.6,up,zero,normal,A
+50.0,M,asymptomatic,150.0,243.0,0.0,left ventricular hypertrophy,128.0,0.0,2.6,flat,zero,reversable defect,E
+65.0,F,non-anginal pain,140.0,417.0,1.0,left ventricular hypertrophy,157.0,0.0,0.8,up,one,normal,A
+53.0,M,non-anginal pain,130.0,197.0,1.0,left ventricular hypertrophy,152.0,0.0,1.2,down,zero,normal,A
+41.0,F,atypical angina,105.0,198.0,0.0,normal,168.0,0.0,0.0,up,one,normal,A
+65.0,M,asymptomatic,120.0,177.0,0.0,normal,140.0,0.0,0.4,up,zero,reversable defect,A
+44.0,M,asymptomatic,112.0,290.0,0.0,left ventricular hypertrophy,153.0,0.0,0.0,up,one,normal,C
+44.0,M,atypical angina,130.0,219.0,0.0,left ventricular hypertrophy,188.0,0.0,0.0,up,zero,normal,A
+60.0,M,asymptomatic,130.0,253.0,0.0,normal,144.0,1.0,1.4,up,one,reversable defect,B
+54.0,M,asymptomatic,124.0,266.0,0.0,left ventricular hypertrophy,109.0,1.0,2.2,flat,one,reversable defect,B
+50.0,M,non-anginal pain,140.0,233.0,0.0,normal,163.0,0.0,0.6,flat,one,reversable defect,B
+41.0,M,asymptomatic,110.0,172.0,0.0,left ventricular hypertrophy,158.0,0.0,0.0,up,zero,reversable defect,B
+54.0,M,non-anginal pain,125.0,273.0,0.0,left ventricular hypertrophy,152.0,0.0,0.5,down,one,normal,A
+51.0,M,typical angina,125.0,213.0,0.0,left ventricular hypertrophy,125.0,1.0,1.4,up,one,normal,A
+51.0,F,asymptomatic,130.0,305.0,0.0,normal,142.0,1.0,1.2,flat,zero,reversable defect,C
+46.0,F,non-anginal pain,142.0,177.0,0.0,left ventricular hypertrophy,160.0,1.0,1.4,down,zero,normal,A
+58.0,M,asymptomatic,128.0,216.0,0.0,left ventricular hypertrophy,131.0,1.0,2.2,flat,three,reversable defect,B
+54.0,F,non-anginal pain,135.0,304.0,1.0,normal,170.0,0.0,0.0,up,zero,normal,A
+54.0,M,asymptomatic,120.0,188.0,0.0,normal,113.0,0.0,1.4,flat,one,reversable defect,C
+60.0,M,asymptomatic,145.0,282.0,0.0,left ventricular hypertrophy,142.0,1.0,2.8,flat,two,reversable defect,C
+60.0,M,non-anginal pain,140.0,185.0,0.0,left ventricular hypertrophy,155.0,0.0,3.0,flat,zero,normal,B
+54.0,M,non-anginal pain,150.0,232.0,0.0,left ventricular hypertrophy,165.0,0.0,1.6,up,zero,reversable defect,A
+59.0,M,asymptomatic,170.0,326.0,0.0,left ventricular hypertrophy,140.0,1.0,3.4,down,zero,reversable defect,C
+46.0,M,non-anginal pain,150.0,231.0,0.0,normal,147.0,0.0,3.6,flat,zero,normal,B
+65.0,F,non-anginal pain,155.0,269.0,0.0,normal,148.0,0.0,0.8,up,zero,normal,A
+67.0,M,asymptomatic,125.0,254.0,1.0,normal,163.0,0.0,0.2,flat,two,reversable defect,D
+62.0,M,asymptomatic,120.0,267.0,0.0,normal,99.0,1.0,1.8,flat,two,reversable defect,B
+65.0,M,asymptomatic,110.0,248.0,0.0,left ventricular hypertrophy,158.0,0.0,0.6,up,two,fixed defect,B
+44.0,M,asymptomatic,110.0,197.0,0.0,left ventricular hypertrophy,177.0,0.0,0.0,up,one,normal,B
+65.0,F,non-anginal pain,160.0,360.0,0.0,left ventricular hypertrophy,151.0,0.0,0.8,up,zero,normal,A
+60.0,M,asymptomatic,125.0,258.0,0.0,left ventricular hypertrophy,141.0,1.0,2.8,flat,one,reversable defect,B
+51.0,F,non-anginal pain,140.0,308.0,0.0,left ventricular hypertrophy,142.0,0.0,1.5,up,one,normal,A
+48.0,M,atypical angina,130.0,245.0,0.0,left ventricular hypertrophy,180.0,0.0,0.2,flat,zero,normal,A
+58.0,M,asymptomatic,150.0,270.0,0.0,left ventricular hypertrophy,111.0,1.0,0.8,up,zero,reversable defect,D
+45.0,M,asymptomatic,104.0,208.0,0.0,left ventricular hypertrophy,148.0,1.0,3.0,flat,zero,normal,A
+53.0,F,asymptomatic,130.0,264.0,0.0,left ventricular hypertrophy,143.0,0.0,0.4,flat,zero,normal,A
+39.0,M,non-anginal pain,140.0,321.0,0.0,left ventricular hypertrophy,182.0,0.0,0.0,up,zero,normal,A
+68.0,M,non-anginal pain,180.0,274.0,1.0,left ventricular hypertrophy,150.0,1.0,1.6,flat,zero,reversable defect,D
+52.0,M,atypical angina,120.0,325.0,0.0,normal,172.0,0.0,0.2,up,zero,normal,A
+44.0,M,non-anginal pain,140.0,235.0,0.0,left ventricular hypertrophy,180.0,0.0,0.0,up,zero,normal,A
+47.0,M,non-anginal pain,138.0,257.0,0.0,left ventricular hypertrophy,156.0,0.0,0.0,up,zero,normal,A
+53.0,F,asymptomatic,138.0,234.0,0.0,left ventricular hypertrophy,160.0,0.0,0.0,up,zero,normal,A
+51.0,F,non-anginal pain,130.0,256.0,0.0,left ventricular hypertrophy,149.0,0.0,0.5,up,zero,normal,A
+66.0,M,asymptomatic,120.0,302.0,0.0,left ventricular hypertrophy,151.0,0.0,0.4,flat,zero,normal,A
+62.0,F,asymptomatic,160.0,164.0,0.0,left ventricular hypertrophy,145.0,0.0,6.2,down,three,reversable defect,D
+62.0,M,non-anginal pain,130.0,231.0,0.0,normal,146.0,0.0,1.8,flat,three,reversable defect,A
+44.0,F,non-anginal pain,108.0,141.0,0.0,normal,175.0,0.0,0.6,flat,zero,normal,A
+63.0,F,non-anginal pain,135.0,252.0,0.0,left ventricular hypertrophy,172.0,0.0,0.0,up,zero,normal,A
+52.0,M,asymptomatic,128.0,255.0,0.0,normal,161.0,1.0,0.0,up,one,reversable defect,B
+59.0,M,asymptomatic,110.0,239.0,0.0,left ventricular hypertrophy,142.0,1.0,1.2,flat,one,reversable defect,C
+60.0,F,asymptomatic,150.0,258.0,0.0,left ventricular hypertrophy,157.0,0.0,2.6,flat,two,reversable defect,D
+52.0,M,atypical angina,134.0,201.0,0.0,normal,158.0,0.0,0.8,up,one,normal,A
+48.0,M,asymptomatic,122.0,222.0,0.0,left ventricular hypertrophy,186.0,0.0,0.0,up,zero,normal,A
+45.0,M,asymptomatic,115.0,260.0,0.0,left ventricular hypertrophy,185.0,0.0,0.0,up,zero,normal,A
+34.0,M,typical angina,118.0,182.0,0.0,left ventricular hypertrophy,174.0,0.0,0.0,up,zero,normal,A
+57.0,F,asymptomatic,128.0,303.0,0.0,left ventricular hypertrophy,159.0,0.0,0.0,up,one,normal,A
+71.0,F,non-anginal pain,110.0,265.0,1.0,left ventricular hypertrophy,130.0,0.0,0.0,up,one,normal,A
+49.0,M,non-anginal pain,120.0,188.0,0.0,normal,139.0,0.0,2.0,flat,three,reversable defect,D
+54.0,M,atypical angina,108.0,309.0,0.0,normal,156.0,0.0,0.0,up,zero,reversable defect,A
+59.0,M,asymptomatic,140.0,177.0,0.0,normal,162.0,1.0,0.0,up,one,reversable defect,C
+57.0,M,non-anginal pain,128.0,229.0,0.0,left ventricular hypertrophy,150.0,0.0,0.4,flat,one,reversable defect,B
+61.0,M,asymptomatic,120.0,260.0,0.0,normal,140.0,1.0,3.6,flat,one,reversable defect,C
+39.0,M,asymptomatic,118.0,219.0,0.0,normal,140.0,0.0,1.2,flat,zero,reversable defect,D
+61.0,F,asymptomatic,145.0,307.0,0.0,left ventricular hypertrophy,146.0,1.0,1.0,flat,zero,reversable defect,B
+56.0,M,asymptomatic,125.0,249.0,1.0,left ventricular hypertrophy,144.0,1.0,1.2,flat,one,normal,B
+52.0,M,typical angina,118.0,186.0,0.0,left ventricular hypertrophy,190.0,0.0,0.0,flat,zero,fixed defect,A
+43.0,F,asymptomatic,132.0,341.0,1.0,left ventricular hypertrophy,136.0,1.0,3.0,flat,zero,reversable defect,C
+62.0,F,non-anginal pain,130.0,263.0,0.0,normal,97.0,0.0,1.2,flat,one,reversable defect,C
+41.0,M,atypical angina,135.0,203.0,0.0,normal,132.0,0.0,0.0,flat,zero,fixed defect,A
+58.0,M,non-anginal pain,140.0,211.0,1.0,left ventricular hypertrophy,165.0,0.0,0.0,up,zero,normal,A
+35.0,F,asymptomatic,138.0,183.0,0.0,normal,182.0,0.0,1.4,up,zero,normal,A
+63.0,M,asymptomatic,130.0,330.0,1.0,left ventricular hypertrophy,132.0,1.0,1.8,up,three,reversable defect,D
+65.0,M,asymptomatic,135.0,254.0,0.0,left ventricular hypertrophy,127.0,0.0,2.8,flat,one,reversable defect,C
+48.0,M,asymptomatic,130.0,256.0,1.0,left ventricular hypertrophy,150.0,1.0,0.0,up,two,reversable defect,D
+63.0,F,asymptomatic,150.0,407.0,0.0,left ventricular hypertrophy,154.0,0.0,4.0,flat,three,reversable defect,E
+51.0,M,non-anginal pain,100.0,222.0,0.0,normal,143.0,1.0,1.2,flat,zero,normal,A
+55.0,M,asymptomatic,140.0,217.0,0.0,normal,111.0,1.0,5.6,down,zero,reversable defect,D
+65.0,M,typical angina,138.0,282.0,1.0,left ventricular hypertrophy,174.0,0.0,1.4,flat,one,normal,B
+45.0,F,atypical angina,130.0,234.0,0.0,left ventricular hypertrophy,175.0,0.0,0.6,flat,zero,normal,A
+56.0,F,asymptomatic,200.0,288.0,1.0,left ventricular hypertrophy,133.0,1.0,4.0,down,two,reversable defect,D
+54.0,M,asymptomatic,110.0,239.0,0.0,normal,126.0,1.0,2.8,flat,one,reversable defect,D
+44.0,M,atypical angina,120.0,220.0,0.0,normal,170.0,0.0,0.0,up,zero,normal,A
+62.0,F,asymptomatic,124.0,209.0,0.0,normal,163.0,0.0,0.0,up,zero,normal,A
+54.0,M,non-anginal pain,120.0,258.0,0.0,left ventricular hypertrophy,147.0,0.0,0.4,flat,zero,reversable defect,A
+51.0,M,non-anginal pain,94.0,227.0,0.0,normal,154.0,1.0,0.0,up,one,reversable defect,A
+29.0,M,atypical angina,130.0,204.0,0.0,left ventricular hypertrophy,202.0,0.0,0.0,up,zero,normal,A
+51.0,M,asymptomatic,140.0,261.0,0.0,left ventricular hypertrophy,186.0,1.0,0.0,up,zero,normal,A
+43.0,F,non-anginal pain,122.0,213.0,0.0,normal,165.0,0.0,0.2,flat,zero,normal,A
+55.0,F,atypical angina,135.0,250.0,0.0,left ventricular hypertrophy,161.0,0.0,1.4,flat,zero,normal,A
+70.0,M,asymptomatic,145.0,174.0,0.0,normal,125.0,1.0,2.6,down,zero,reversable defect,E
+62.0,M,atypical angina,120.0,281.0,0.0,left ventricular hypertrophy,103.0,0.0,1.4,flat,one,reversable defect,D
+35.0,M,asymptomatic,120.0,198.0,0.0,normal,130.0,1.0,1.6,flat,zero,reversable defect,B
+51.0,M,non-anginal pain,125.0,245.0,1.0,left ventricular hypertrophy,166.0,0.0,2.4,flat,zero,normal,A
+59.0,M,atypical angina,140.0,221.0,0.0,normal,164.0,1.0,0.0,up,zero,normal,A
+59.0,M,typical angina,170.0,288.0,0.0,left ventricular hypertrophy,159.0,0.0,0.2,flat,zero,reversable defect,B
+52.0,M,atypical angina,128.0,205.0,1.0,normal,184.0,0.0,0.0,up,zero,normal,A
+64.0,M,non-anginal pain,125.0,309.0,0.0,normal,131.0,1.0,1.8,flat,zero,reversable defect,B
+58.0,M,non-anginal pain,105.0,240.0,0.0,left ventricular hypertrophy,154.0,1.0,0.6,flat,zero,reversable defect,A
+47.0,M,non-anginal pain,108.0,243.0,0.0,normal,152.0,0.0,0.0,up,zero,normal,B
+57.0,M,asymptomatic,165.0,289.0,1.0,left ventricular hypertrophy,124.0,0.0,1.0,flat,three,reversable defect,E
+41.0,M,non-anginal pain,112.0,250.0,0.0,normal,179.0,0.0,0.0,up,zero,normal,A
+45.0,M,atypical angina,128.0,308.0,0.0,left ventricular hypertrophy,170.0,0.0,0.0,up,zero,normal,A
+60.0,F,non-anginal pain,102.0,318.0,0.0,normal,160.0,0.0,0.0,up,one,normal,A
+52.0,M,typical angina,152.0,298.0,1.0,normal,178.0,0.0,1.2,flat,zero,reversable defect,A
+42.0,F,asymptomatic,102.0,265.0,0.0,left ventricular hypertrophy,122.0,0.0,0.6,flat,zero,normal,A
+67.0,F,non-anginal pain,115.0,564.0,0.0,left ventricular hypertrophy,160.0,0.0,1.6,flat,zero,reversable defect,A
+55.0,M,asymptomatic,160.0,289.0,0.0,left ventricular hypertrophy,145.0,1.0,0.8,flat,one,reversable defect,E
+64.0,M,asymptomatic,120.0,246.0,0.0,left ventricular hypertrophy,96.0,1.0,2.2,down,one,normal,D
+70.0,M,asymptomatic,130.0,322.0,0.0,left ventricular hypertrophy,109.0,0.0,2.4,flat,three,normal,B
+51.0,M,asymptomatic,140.0,299.0,0.0,normal,173.0,1.0,1.6,up,zero,reversable defect,B
+58.0,M,asymptomatic,125.0,300.0,0.0,left ventricular hypertrophy,171.0,0.0,0.0,up,two,reversable defect,B
+60.0,M,asymptomatic,140.0,293.0,0.0,left ventricular hypertrophy,170.0,0.0,1.2,flat,two,reversable defect,C
+68.0,M,non-anginal pain,118.0,277.0,0.0,normal,151.0,0.0,1.0,up,one,reversable defect,A
+46.0,M,atypical angina,101.0,197.0,1.0,normal,156.0,0.0,0.0,up,zero,reversable defect,A
+77.0,M,asymptomatic,125.0,304.0,0.0,left ventricular hypertrophy,162.0,1.0,0.0,up,three,normal,E
+54.0,F,non-anginal pain,110.0,214.0,0.0,normal,158.0,0.0,1.6,flat,zero,normal,A
+58.0,F,asymptomatic,100.0,248.0,0.0,left ventricular hypertrophy,122.0,0.0,1.0,flat,zero,normal,A
+48.0,M,non-anginal pain,124.0,255.0,1.0,normal,175.0,0.0,0.0,up,two,normal,A
+57.0,M,asymptomatic,132.0,207.0,0.0,normal,168.0,1.0,0.0,up,zero,reversable defect,A
+54.0,F,atypical angina,132.0,288.0,1.0,left ventricular hypertrophy,159.0,1.0,0.0,up,one,normal,A
+35.0,M,asymptomatic,126.0,282.0,0.0,left ventricular hypertrophy,156.0,1.0,0.0,up,zero,reversable defect,B
+45.0,F,atypical angina,112.0,160.0,0.0,normal,138.0,0.0,0.0,flat,zero,normal,A
+70.0,M,non-anginal pain,160.0,269.0,0.0,normal,112.0,1.0,2.9,flat,one,reversable defect,D
+53.0,M,asymptomatic,142.0,226.0,0.0,left ventricular hypertrophy,111.0,1.0,0.0,up,zero,reversable defect,A
+59.0,F,asymptomatic,174.0,249.0,0.0,normal,143.0,1.0,0.0,flat,zero,normal,B
+62.0,F,asymptomatic,140.0,394.0,0.0,left ventricular hypertrophy,157.0,0.0,1.2,flat,zero,normal,A
+64.0,M,asymptomatic,145.0,212.0,0.0,left ventricular hypertrophy,132.0,0.0,2.0,flat,two,fixed defect,E
+57.0,M,asymptomatic,152.0,274.0,0.0,normal,88.0,1.0,1.2,flat,one,reversable defect,B
+52.0,M,asymptomatic,108.0,233.0,1.0,normal,147.0,0.0,0.1,up,three,reversable defect,A
+56.0,M,asymptomatic,132.0,184.0,0.0,left ventricular hypertrophy,105.0,1.0,2.1,flat,one,fixed defect,B
+43.0,M,non-anginal pain,130.0,315.0,0.0,normal,162.0,0.0,1.9,up,one,normal,A
+53.0,M,non-anginal pain,130.0,246.0,1.0,left ventricular hypertrophy,173.0,0.0,0.0,up,three,normal,A
+48.0,M,asymptomatic,124.0,274.0,0.0,left ventricular hypertrophy,166.0,0.0,0.5,flat,zero,reversable defect,D
+56.0,F,asymptomatic,134.0,409.0,0.0,left ventricular hypertrophy,150.0,1.0,1.9,flat,two,reversable defect,C
+42.0,M,typical angina,148.0,244.0,0.0,left ventricular hypertrophy,178.0,0.0,0.8,up,two,normal,A
+59.0,M,typical angina,178.0,270.0,0.0,left ventricular hypertrophy,145.0,0.0,4.2,down,zero,reversable defect,A
+60.0,F,asymptomatic,158.0,305.0,0.0,left ventricular hypertrophy,161.0,0.0,0.0,up,zero,normal,B
+63.0,F,atypical angina,140.0,195.0,0.0,normal,179.0,0.0,0.0,up,two,normal,A
+42.0,M,non-anginal pain,120.0,240.0,1.0,normal,194.0,0.0,0.8,down,zero,reversable defect,A
+66.0,M,atypical angina,160.0,246.0,0.0,normal,120.0,1.0,0.0,flat,three,fixed defect,C
+54.0,M,atypical angina,192.0,283.0,0.0,left ventricular hypertrophy,195.0,0.0,0.0,up,one,reversable defect,B
+69.0,M,non-anginal pain,140.0,254.0,0.0,left ventricular hypertrophy,146.0,0.0,2.0,flat,three,reversable defect,C
+50.0,M,non-anginal pain,129.0,196.0,0.0,normal,163.0,0.0,0.0,up,zero,normal,A
+51.0,M,asymptomatic,140.0,298.0,0.0,normal,122.0,1.0,4.2,flat,three,reversable defect,D
+62.0,F,asymptomatic,138.0,294.0,1.0,normal,106.0,0.0,1.9,flat,three,normal,C
+68.0,F,non-anginal pain,120.0,211.0,0.0,left ventricular hypertrophy,115.0,0.0,1.5,flat,zero,normal,A
+67.0,M,asymptomatic,100.0,299.0,0.0,left ventricular hypertrophy,125.0,1.0,0.9,flat,two,normal,D
+69.0,M,typical angina,160.0,234.0,1.0,left ventricular hypertrophy,131.0,0.0,0.1,flat,one,normal,A
+45.0,F,asymptomatic,138.0,236.0,0.0,left ventricular hypertrophy,152.0,1.0,0.2,flat,zero,normal,A
+50.0,F,atypical angina,120.0,244.0,0.0,normal,162.0,0.0,1.1,up,zero,normal,A
+59.0,M,typical angina,160.0,273.0,0.0,left ventricular hypertrophy,125.0,0.0,0.0,up,zero,normal,B
+50.0,F,asymptomatic,110.0,254.0,0.0,left ventricular hypertrophy,159.0,0.0,0.0,up,zero,normal,A
+64.0,F,asymptomatic,180.0,325.0,0.0,normal,154.0,1.0,0.0,up,zero,normal,A
+57.0,M,non-anginal pain,150.0,126.0,1.0,normal,173.0,0.0,0.2,up,one,reversable defect,A
+64.0,F,non-anginal pain,140.0,313.0,0.0,normal,133.0,0.0,0.2,up,zero,reversable defect,A
+43.0,M,asymptomatic,110.0,211.0,0.0,normal,161.0,0.0,0.0,up,zero,reversable defect,A
+45.0,M,asymptomatic,142.0,309.0,0.0,left ventricular hypertrophy,147.0,1.0,0.0,flat,three,reversable defect,D
+58.0,M,asymptomatic,128.0,259.0,0.0,left ventricular hypertrophy,130.0,1.0,3.0,flat,two,reversable defect,D
+50.0,M,asymptomatic,144.0,200.0,0.0,left ventricular hypertrophy,126.0,1.0,0.9,flat,zero,reversable defect,D
+55.0,M,atypical angina,130.0,262.0,0.0,normal,155.0,0.0,0.0,up,zero,normal,A
+62.0,F,asymptomatic,150.0,244.0,0.0,normal,154.0,1.0,1.4,flat,zero,normal,B
+37.0,F,non-anginal pain,120.0,215.0,0.0,normal,170.0,0.0,0.0,up,zero,normal,A
+38.0,M,typical angina,120.0,231.0,0.0,normal,182.0,1.0,3.8,flat,zero,reversable defect,E
+41.0,M,non-anginal pain,130.0,214.0,0.0,left ventricular hypertrophy,168.0,0.0,2.0,flat,zero,normal,A
+66.0,F,asymptomatic,178.0,228.0,1.0,normal,165.0,1.0,1.0,flat,two,reversable defect,D
+52.0,M,asymptomatic,112.0,230.0,0.0,normal,160.0,0.0,0.0,up,one,normal,B
+56.0,M,typical angina,120.0,193.0,0.0,left ventricular hypertrophy,162.0,0.0,1.9,flat,zero,reversable defect,A
+46.0,F,atypical angina,105.0,204.0,0.0,normal,172.0,0.0,0.0,up,zero,normal,A
+46.0,F,asymptomatic,138.0,243.0,0.0,left ventricular hypertrophy,152.0,1.0,0.0,flat,zero,normal,A
+64.0,F,asymptomatic,130.0,303.0,0.0,normal,122.0,0.0,2.0,flat,two,normal,A
+59.0,M,asymptomatic,138.0,271.0,0.0,left ventricular hypertrophy,182.0,0.0,0.0,up,zero,normal,A
+41.0,F,non-anginal pain,112.0,268.0,0.0,left ventricular hypertrophy,172.0,1.0,0.0,up,zero,normal,A
+54.0,F,non-anginal pain,108.0,267.0,0.0,left ventricular hypertrophy,167.0,0.0,0.0,up,zero,normal,A
+39.0,F,non-anginal pain,94.0,199.0,0.0,normal,179.0,0.0,0.0,up,zero,normal,A
+53.0,M,asymptomatic,123.0,282.0,0.0,normal,95.0,1.0,2.0,flat,two,reversable defect,D
+63.0,F,asymptomatic,108.0,269.0,0.0,normal,169.0,1.0,1.8,flat,two,normal,B
+34.0,F,atypical angina,118.0,210.0,0.0,normal,192.0,0.0,0.7,up,zero,normal,A
+47.0,M,asymptomatic,112.0,204.0,0.0,normal,143.0,0.0,0.1,up,zero,normal,A
+67.0,F,non-anginal pain,152.0,277.0,0.0,normal,172.0,0.0,0.0,up,one,normal,A
+54.0,M,asymptomatic,110.0,206.0,0.0,left ventricular hypertrophy,108.0,1.0,0.0,flat,one,normal,D
+66.0,M,asymptomatic,112.0,212.0,0.0,left ventricular hypertrophy,132.0,1.0,0.1,up,one,normal,C
+52.0,F,non-anginal pain,136.0,196.0,0.0,left ventricular hypertrophy,169.0,0.0,0.1,flat,zero,normal,A
+55.0,F,asymptomatic,180.0,327.0,0.0,STT wave abnormality,117.0,1.0,3.4,flat,zero,normal,C
+49.0,M,non-anginal pain,118.0,149.0,0.0,left ventricular hypertrophy,126.0,0.0,0.8,up,three,normal,B
+74.0,F,atypical angina,120.0,269.0,0.0,left ventricular hypertrophy,121.0,1.0,0.2,up,one,normal,A
+54.0,F,non-anginal pain,160.0,201.0,0.0,normal,163.0,0.0,0.0,up,one,normal,A
+54.0,M,asymptomatic,122.0,286.0,0.0,left ventricular hypertrophy,116.0,1.0,3.2,flat,two,normal,D
+56.0,M,asymptomatic,130.0,283.0,1.0,left ventricular hypertrophy,103.0,1.0,1.6,down,zero,reversable defect,C
+46.0,M,asymptomatic,120.0,249.0,0.0,left ventricular hypertrophy,144.0,0.0,0.8,up,zero,reversable defect,B
+49.0,F,atypical angina,134.0,271.0,0.0,normal,162.0,0.0,0.0,flat,zero,normal,A
+42.0,M,atypical angina,120.0,295.0,0.0,normal,162.0,0.0,0.0,up,zero,normal,A
+41.0,M,atypical angina,110.0,235.0,0.0,normal,153.0,0.0,0.0,up,zero,normal,A
+41.0,F,atypical angina,126.0,306.0,0.0,normal,163.0,0.0,0.0,up,zero,normal,A
+49.0,F,asymptomatic,130.0,269.0,0.0,normal,163.0,0.0,0.0,up,zero,normal,A
+61.0,M,typical angina,134.0,234.0,0.0,normal,145.0,0.0,2.6,flat,two,normal,C
+60.0,F,non-anginal pain,120.0,178.0,1.0,normal,96.0,0.0,0.0,up,zero,normal,A
+67.0,M,asymptomatic,120.0,237.0,0.0,normal,71.0,0.0,1.0,flat,zero,normal,C
+58.0,M,asymptomatic,100.0,234.0,0.0,normal,156.0,0.0,0.1,up,one,reversable defect,C
+47.0,M,asymptomatic,110.0,275.0,0.0,left ventricular hypertrophy,118.0,1.0,1.0,flat,one,normal,B
+52.0,M,asymptomatic,125.0,212.0,0.0,normal,168.0,0.0,1.0,up,two,reversable defect,D
+62.0,M,atypical angina,128.0,208.0,1.0,left ventricular hypertrophy,140.0,0.0,0.0,up,zero,normal,A
+57.0,M,asymptomatic,110.0,201.0,0.0,normal,126.0,1.0,1.5,flat,zero,fixed defect,A
+58.0,M,asymptomatic,146.0,218.0,0.0,normal,105.0,0.0,2.0,flat,one,reversable defect,B
+64.0,M,asymptomatic,128.0,263.0,0.0,normal,105.0,1.0,0.2,flat,one,reversable defect,A
+51.0,F,non-anginal pain,120.0,295.0,0.0,left ventricular hypertrophy,157.0,0.0,0.6,up,zero,normal,A
+43.0,M,asymptomatic,115.0,303.0,0.0,normal,181.0,0.0,1.2,flat,zero,normal,A
+42.0,F,non-anginal pain,120.0,209.0,0.0,normal,173.0,0.0,0.0,flat,zero,normal,A
+67.0,F,asymptomatic,106.0,223.0,0.0,normal,142.0,0.0,0.3,up,two,normal,A
+76.0,F,non-anginal pain,140.0,197.0,0.0,STT wave abnormality,116.0,0.0,1.1,flat,zero,normal,A
+70.0,M,atypical angina,156.0,245.0,0.0,left ventricular hypertrophy,143.0,0.0,0.0,up,zero,normal,A
+57.0,M,atypical angina,124.0,261.0,0.0,normal,141.0,0.0,0.3,up,zero,reversable defect,B
+44.0,F,non-anginal pain,118.0,242.0,0.0,normal,149.0,0.0,0.3,flat,one,normal,A
+58.0,F,atypical angina,136.0,319.0,1.0,left ventricular hypertrophy,152.0,0.0,0.0,up,two,normal,D
+60.0,F,typical angina,150.0,240.0,0.0,normal,171.0,0.0,0.9,up,zero,normal,A
+44.0,M,non-anginal pain,120.0,226.0,0.0,normal,169.0,0.0,0.0,up,zero,normal,A
+61.0,M,asymptomatic,138.0,166.0,0.0,left ventricular hypertrophy,125.0,1.0,3.6,flat,one,normal,E
+42.0,M,asymptomatic,136.0,315.0,0.0,normal,125.0,1.0,1.8,flat,zero,fixed defect,C
+59.0,M,non-anginal pain,126.0,218.0,1.0,normal,134.0,0.0,2.2,flat,one,fixed defect,C
+40.0,M,asymptomatic,152.0,223.0,0.0,normal,181.0,0.0,0.0,up,zero,reversable defect,B
+42.0,M,non-anginal pain,130.0,180.0,0.0,normal,150.0,0.0,0.0,up,zero,normal,A
+61.0,M,asymptomatic,140.0,207.0,0.0,left ventricular hypertrophy,138.0,1.0,1.9,up,one,reversable defect,B
+66.0,M,asymptomatic,160.0,228.0,0.0,left ventricular hypertrophy,138.0,0.0,2.3,up,zero,fixed defect,A
+46.0,M,asymptomatic,140.0,311.0,0.0,normal,120.0,1.0,1.8,flat,two,reversable defect,C
+71.0,F,asymptomatic,112.0,149.0,0.0,normal,125.0,0.0,1.6,flat,zero,normal,A
+59.0,M,typical angina,134.0,204.0,0.0,normal,162.0,0.0,0.8,up,two,normal,B
+64.0,M,typical angina,170.0,227.0,0.0,left ventricular hypertrophy,155.0,0.0,0.6,flat,zero,reversable defect,A
+66.0,F,non-anginal pain,146.0,278.0,0.0,left ventricular hypertrophy,152.0,0.0,0.0,flat,one,normal,A
+39.0,F,non-anginal pain,138.0,220.0,0.0,normal,152.0,0.0,0.0,flat,zero,normal,A
+57.0,M,atypical angina,154.0,232.0,0.0,left ventricular hypertrophy,164.0,0.0,0.0,up,one,normal,B
+58.0,F,asymptomatic,130.0,197.0,0.0,normal,131.0,0.0,0.6,flat,zero,normal,A
+57.0,M,asymptomatic,110.0,335.0,0.0,normal,143.0,1.0,3.0,flat,one,reversable defect,C
+47.0,M,non-anginal pain,130.0,253.0,0.0,normal,179.0,0.0,0.0,up,zero,normal,A
+55.0,F,asymptomatic,128.0,205.0,0.0,STT wave abnormality,130.0,1.0,2.0,flat,one,reversable defect,D
+35.0,M,atypical angina,122.0,192.0,0.0,normal,174.0,0.0,0.0,up,zero,normal,A
+61.0,M,asymptomatic,148.0,203.0,0.0,normal,161.0,0.0,0.0,up,one,reversable defect,C
+58.0,M,asymptomatic,114.0,318.0,0.0,STT wave abnormality,140.0,0.0,4.4,down,three,fixed defect,E
+58.0,F,asymptomatic,170.0,225.0,1.0,left ventricular hypertrophy,146.0,1.0,2.8,flat,two,fixed defect,C
+56.0,M,atypical angina,130.0,221.0,0.0,left ventricular hypertrophy,163.0,0.0,0.0,up,zero,reversable defect,A
+56.0,M,atypical angina,120.0,240.0,0.0,normal,169.0,0.0,0.0,down,zero,normal,A
+67.0,M,non-anginal pain,152.0,212.0,0.0,left ventricular hypertrophy,150.0,0.0,0.8,flat,zero,reversable defect,B
+55.0,F,atypical angina,132.0,342.0,0.0,normal,166.0,0.0,1.2,up,zero,normal,A
+44.0,M,asymptomatic,120.0,169.0,0.0,normal,144.0,1.0,2.8,down,zero,fixed defect,C
+63.0,M,asymptomatic,140.0,187.0,0.0,left ventricular hypertrophy,144.0,1.0,4.0,up,two,reversable defect,C
+63.0,F,asymptomatic,124.0,197.0,0.0,normal,136.0,1.0,0.0,flat,zero,normal,B
+41.0,M,atypical angina,120.0,157.0,0.0,normal,182.0,0.0,0.0,up,zero,normal,A
+59.0,M,asymptomatic,164.0,176.0,1.0,left ventricular hypertrophy,90.0,0.0,1.0,flat,two,fixed defect,D
+57.0,F,asymptomatic,140.0,241.0,0.0,normal,123.0,1.0,0.2,flat,zero,reversable defect,B
+45.0,M,typical angina,110.0,264.0,0.0,normal,132.0,0.0,1.2,flat,zero,reversable defect,B
+68.0,M,asymptomatic,144.0,193.0,1.0,normal,141.0,0.0,3.4,flat,two,reversable defect,C
+57.0,M,asymptomatic,130.0,131.0,0.0,normal,115.0,1.0,1.2,flat,one,reversable defect,D
+57.0,F,atypical angina,130.0,236.0,0.0,left ventricular hypertrophy,174.0,0.0,0.0,flat,one,normal,B
