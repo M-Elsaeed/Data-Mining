@@ -1,4 +1,0 @@
-First Go
-Outliers = 67
-2nd
-66
